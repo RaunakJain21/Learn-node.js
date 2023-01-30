@@ -1,0 +1,8 @@
+mkdir newfolder
+mkdir is used to create a new folder
+ 
+ 
+node - to go into the repel
+.exit -  to come outside the repel
+cls   - clear screen
+type nul > index.js    - create a new file named index.js 
